@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Avanindra Singh
 - 👀 I’m interested in ...Web development/Python programming 
-- 🌱 I’m currently learning ...Full stack development 
+- 🌱 I’m currently learning ...Full stack web development 
 - 💞️ I’m looking to collaborate on ...full stack project/python projects
 - 📫 How to reach me ... avanindra19.av@gmail.com
 
