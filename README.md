@@ -1,5 +1,7 @@
 These are some of my personal data science projects.
+
 1.Netflix business case
+
 2.Aerofit customer segmentation case.
 
 <!---
