@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Avanindra Singh
-- 👀 I’m interested in ...Web development/Python programming 
-- 🌱 I’m currently learning ...Full stack web development 
-- 💞️ I’m looking to collaborate on ...full stack project/python projects
-- 📫 How to reach me ... avanindra19.av@gmail.com
+These are some of my personal data science projects.
+1.Netflix business case
+2.Aerofit customer segmentation case.
 
 <!---
 Avanindra19/Avanindra19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
